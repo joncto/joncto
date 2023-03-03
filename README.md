@@ -1,4 +1,4 @@
-## Hello, I am Jon!  
+## I am Jon!  
   
 Currently, I am working in The National Library of Norway (NLN), facilitating research services from the [Norwegian Web Archive](https://www.nb.no/samlingen/nettarkivet/forskning/). I am also part of NLN's [DHlab team](https://www.nb.no/dhlab).  
   
