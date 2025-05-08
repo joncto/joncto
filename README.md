@@ -9,5 +9,5 @@ I am committed to making the petabytes of web archives, collected since the 1990
 - link data and network analysis,
 - data visualisation.
 
-## Read my latest publication
+### Read my latest publication
 Tønnessen & Birkenes (2025): ‘Providing Web Archive News Articles as Corpus Data’, *Journal of Open Humanities Data, 11* (1), p. 2. [DOI:10.5334/johd.281](https://doi.org/10.5334/johd.281).
