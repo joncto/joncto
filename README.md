@@ -11,6 +11,3 @@ I am committed to making the petabytes of web archives, collected since the 1990
 
 ## Read my latest publication
 Tønnessen & Birkenes (2025): ‘Providing Web Archive News Articles as Corpus Data’, *Journal of Open Humanities Data, 11* (1), p. 2. [DOI:10.5334/johd.281](https://doi.org/10.5334/johd.281).
-
-[^1]: Brügger (2021): ‘The need for research infrastructures for the study of web archives’, in Gomes et al. (eds), *The past web: Exploring web archives*, Cham: Springer International Publishing, 217-224. [DOI:10.1007/978-3-030-63291-5_17](https://doi.org/10.4324/9781003224495-5).
-[^2]: Padilla et al. (2019): ‘Always Already Computational: Collections as Data. Final Report’. [DOI:10.5281/zenodo.3152934](https://doi.org/10.5281/zenodo.3152934).
